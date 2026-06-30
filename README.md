@@ -7,4 +7,4 @@
 - 🧠 Active problem solver on LeetCode & Open Source enthusiast
 
 ### Socials & Links:
-[🌐 LeetCode Profile]((https://leetcode.com/u/Mohd_Shadin/)) | [💼 LinkedIn Profile]([https://linkedin.com/in/mohammad-ansah-88465b214)]| [📧 Email](mailto:mohamedkshadin@gmail.com)
+[🌐 LeetCode Profile](https://leetcode.com/u/Mohd_Shadin/) | [💼 LinkedIn Profile](https://www.linkedin.com/in/mohamed-shadin-k-1a8173179/) | [📧 Email](mailto:mohamedkshadin@gmail.com)
